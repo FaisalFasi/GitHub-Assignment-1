@@ -7,24 +7,24 @@ Code for YouTube Series on building a Todo App using React.js: [YouTube Link](ht
 
 # Build Setup
 
-<mark> \# install dependencies
+´´´md
+\# install dependencies
 
 npm install
 
 \# serve at localhost:3000
 
 npm start
-</mark>
+´´´
 
 # Specific Branch
 
-faisal
-<br>
+ <br>
 If you want to checkout a certain branch:
 
-> `it branch -a` to list all the branches.
+`it branch -a` to list all the branches.
 
-<mark>git checkout 01-basics</mark> (or any branch) to check it out.
+`git checkout 01-basics`(or any branch) to check it out.
 
 # Laravel API
 
