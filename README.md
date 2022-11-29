@@ -7,7 +7,7 @@ Code for YouTube Series on building a Todo App using React.js: [YouTube Link](ht
 
 # Build Setup
 
-´´´md
+```md
 \# install dependencies
 
 npm install
@@ -15,7 +15,7 @@ npm install
 \# serve at localhost:3000
 
 npm start
-´´´
+```
 
 # Specific Branch
 
